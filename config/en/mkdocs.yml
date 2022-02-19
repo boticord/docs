@@ -1,0 +1,70 @@
+site_name: Boticord API - Docs
+docs_dir: '../../docs/en'
+site_dir: '../../generated/en'
+
+theme:
+  name: material
+  custom_dir: '../../overrides/'
+  logo: https://boticord.top/static/new/logo-full-v2.svg
+  favicon: https://boticord.top/static/new/logo-full-v2.svg
+  language: ru
+  features:
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - navigation.sections
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: kerdoku-dark
+      toggle:
+        icon: material/white-balance-sunny
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/moon-waxing-crescent
+        name: Switch to dark mode
+
+copyright: © 2020-2022 — Boticord.top. Все права защищены.
+
+markdown_extensions:
+  - pymdownx.superfences
+  - admonition
+  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true
+
+extra:
+  social:
+    - icon: fontawesome/solid/globe
+      link: https://boticord.top
+    - icon: fontawesome/brands/github
+      link: https://github.com/boticord
+    - icon: fontawesome/brands/discord
+      link: https://boticord.top/discord
+  alternate:
+    - name: English
+      link: /en/
+      lang: en
+    - name: Русский
+      link: /
+      lang: ru
+
+extra_css:
+  - stylesheets/dark_theme.css
+
+plugins:
+  - search:
+      lang: en
+
+nav:
+  - Home: index.md
+  - Libraries:
+    - Python: libraries/boticordpy.md
+    - JS (TS): libraries/boticordjs.md
+    - Rust: libraries/boticordrs.md
+  - Methods:
+      - Bots: methods/bots.md
+      - Servers: methods/servers.md
+      - Users: methods/users.md
+  - Webhooks: webhooks.md
