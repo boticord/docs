@@ -1,6 +1,6 @@
 site_name: Boticord API - Docs
-docs_dir: '../../docs/ru'
-site_dir: '../../generated/ru'
+docs_dir: '../../docs_src/ru'
+site_dir: '../../docs/ru'
 
 theme:
   name: material
