@@ -1,5 +1,5 @@
 # JavaScript
-boticord.js - is a JavaScript (TypeScript) library to interact with the Boticord API.
+boticord.js - is a JavaScript (TypeScript) library to interact with the BotiCord API.
 
 ____
 
