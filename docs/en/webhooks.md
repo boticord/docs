@@ -1,6 +1,6 @@
 # Webhooks
 
-Get real-time information from the Boticord API.
+Get real-time information from the BotiCord API.
 _____
 
 ## How to work with it?
