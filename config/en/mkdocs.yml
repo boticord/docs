@@ -7,7 +7,7 @@ theme:
   custom_dir: '../../overrides/'
   logo: https://boticord.top/static/new/logo-full-v2.svg
   favicon: https://boticord.top/static/new/logo-full-v2.svg
-  language: ru
+  language: en
   features:
     - search.suggest
     - search.highlight
