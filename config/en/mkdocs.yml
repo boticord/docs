@@ -1,4 +1,4 @@
-site_name: Boticord API - Docs
+site_name: BotiCord API - Docs
 docs_dir: '../../docs/en'
 site_dir: '../../dist/en'
 
@@ -25,7 +25,7 @@ theme:
         icon: material/moon-waxing-crescent
         name: Switch to dark mode
 
-copyright: © 2020-2022 — Boticord.top. Все права защищены.
+copyright: © 2020-2022 — BotiCord.top. Все права защищены.
 
 markdown_extensions:
   - pymdownx.superfences
