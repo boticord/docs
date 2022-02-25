@@ -1,5 +1,5 @@
 # Python
-BoticordPY - это библиотека для взаимодействия с сервисом BotiCord.top на языке Python.
+boticordpy - это библиотека для взаимодействия с сервисом BotiCord.top на языке Python.
 
 ____
 
