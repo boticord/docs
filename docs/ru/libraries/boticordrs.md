@@ -1,5 +1,5 @@
 # Rust
-BoticordRS - это библиотека для взаимодействия с сервисом BotiCord.top на языке Rust.
+boticordrs - это библиотека для взаимодействия с сервисом BotiCord.top на языке Rust.
 
 ____
 
