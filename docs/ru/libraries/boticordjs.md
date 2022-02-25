@@ -1,5 +1,5 @@
 # JavaScript
-boticord.js - это библиотека для взаимодействия с сервисом Boticord.top на языке JavaScript (TypeScript).
+boticord.js - это библиотека для взаимодействия с сервисом BotiCord.top на языке JavaScript (TypeScript).
 
 ____
 
