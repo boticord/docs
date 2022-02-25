@@ -1,5 +1,5 @@
 # Rust
-BoticordRS - is a Rust crate to interact with the Boticord API.
+BoticordRS - is a Rust crate to interact with the BotiCord API.
 ____
 
 ### Links:
