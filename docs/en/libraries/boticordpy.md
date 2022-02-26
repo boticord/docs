@@ -1,5 +1,5 @@
 # Python
-BoticordPY is a Python library to interact with the Boticord API.
+boticordpy is a Python library to interact with the BotiCord API.
 
 ____
 

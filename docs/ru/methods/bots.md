@@ -42,7 +42,7 @@ _____
                     library: String || null,
                     shortDescription: String || null,
                     longDescription: String || null,
-                    badge: Number,
+                    badge: String || null,
                     stats: {
                         servers: Number,
                         shards: Number,

@@ -45,7 +45,7 @@ _____
                     },
                     shortDescription: String || null,
                     longDescription: String || null,
-                    badge: String
+                    badge: String || null
                 }
             }
             ```
