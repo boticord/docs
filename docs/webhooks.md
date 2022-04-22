@@ -49,7 +49,7 @@ _____
 
 ### Действие с комментарием
 
-```
+```json
 {
     "type": "*_*_comment", // Types provided in list
     "data": {

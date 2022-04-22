@@ -1,5 +1,5 @@
 # JavaScript
-boticord.js - это библиотека для взаимодействия с сервисом BotiCord.top на языке JavaScript (TypeScript).
+BotiCord.js - это библиотека для взаимодействия с сервисом BotiCord.top на языке JavaScript (TypeScript).
 
 ____
 
@@ -12,7 +12,7 @@ ____
 
 !!! note "Важная информация!"
 
-    - Boticord.js поддерживает `discord.js`, `Eris`, `Discordoo`, а также прямые обращения.
+    - boticord.js поддерживает `discord.js`, `Eris`, `Discordoo`, а также прямые обращения.
     - Если в вашем проекте есть TypeScript, пожалуйста, включите свойство `skipLibCheck` в `tsconfig.json`
 
 
@@ -68,4 +68,5 @@ boticord.bots.postStats({ servers: 123, users: 12345, shards: 1 })
 
 Если Вам нужна какая-либо помощь, то мы рекомендуем еще раз прочитать [документацию библиотеки](https://js.boticord.top/).
 
-Вы можете найти нас на [сервере поддержки сервиса](https://boticord.top/discord). Разработчик библиотеки `@san4ouZ#1007`
+Вы можете найти нас на [сервере поддержки сервиса](https://boticord.top/discord). 
+Разработчик библиотеки: [`@san4ouZ#8649`](https://boticord.top/profile/607148903833403422)
