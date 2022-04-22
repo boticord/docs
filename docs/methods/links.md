@@ -3,7 +3,7 @@
 На этой странице перечислены все API-методы, связанные с сокращением ссылок.
 _____
 
-???+ info "POST ```https://api.boticord.top/v1/links/get```"
+???+ danger "POST ```https://api.boticord.top/v1/links/get```"
 
     === "Информация"
 
@@ -69,7 +69,7 @@ _____
             }
             ```
 
-???+ info "POST ```https://api.boticord.top/v1/links/create```"
+???+ danger "POST ```https://api.boticord.top/v1/links/create```"
 
     === "Информация"
 
@@ -113,7 +113,7 @@ _____
             }
             ```
 
-???+ info "POST ```https://api.boticord.top/v1/links/delete```"
+???+ danger "POST ```https://api.boticord.top/v1/links/delete```"
 
     === "Информация"
 
