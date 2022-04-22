@@ -51,9 +51,9 @@ ____
 
 Вот более подробная информация о них и поддерживаемых ими возможностях BotiCord API:
 
-| Библиотека                               | Язык    | Боты | Сервера | Пользователи | Сокращение ссылок | Веб-Хуки | 
-|------------------------------------------|---------|------|---------|--------------|-------------------|----------|
-| [boticordpy](/libraries/boticordpy/)     | Python  | ✅    | ✅       | ✅            | ✅                 | ✅        |
-| [BotiCord.js](/libraries/boticordjs/)    | JS (TS) | ✅    | ✅       | ✅            | ❌                 | ❌        |
-| [boticordrs](/libraries/boticordrs/)     | Rust    | ✅    | ✅       | ✅            | ✅                 | ❌        | 
-| [BotiCordJava](/libraries/boticordjava/) | Java    | ✅    | ✅       | ✅            | ❌                 | ❌        | 
+| Библиотека                               | Язык    | Основное | Сокращение ссылок | Веб-Хуки | 
+|------------------------------------------|---------|----------|-------------------|----------|
+| [boticordpy](/libraries/boticordpy/)     | Python  | ✅       | ✅                | ✅       |
+| [BotiCord.js](/libraries/boticordjs/)    | JS (TS) | ✅       | ❌                | ❌        |
+| [boticordrs](/libraries/boticordrs/)     | Rust    | ✅       | ✅                | ❌        | 
+| [BotiCordJava](/libraries/boticordjava/) | Java    | ✅       | ❌                | ❌        | 
