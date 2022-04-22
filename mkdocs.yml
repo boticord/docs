@@ -23,7 +23,7 @@ theme:
       scheme: default
       toggle:
         icon: material/moon-waxing-crescent
-        name: Темная тема
+        name: Тёмная тема
 
 copyright: © 2020-2022 — BotiCord.top. Все права защищены.
 
