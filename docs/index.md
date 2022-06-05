@@ -56,4 +56,4 @@ ____
 | [boticordpy](/libraries/boticordpy/)     | Python  | ✅       | ✅                | ✅       |
 | [BotiCord.js](/libraries/boticordjs/)    | JS (TS) | ✅       | ❌                | ❌        |
 | [boticordrs](/libraries/boticordrs/)     | Rust    | ✅       | ✅                | ❌        | 
-| [BotiCordJava](/libraries/boticordjava/) | Java    | ✅       | ❌                | ❌        | 
+| [BotiCordJava](/libraries/boticordjava/) | Java    | ✅       | ✅                | ❌        | 
