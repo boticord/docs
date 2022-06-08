@@ -63,3 +63,5 @@ nav:
       - Пользователи: methods/users.md
       - Ссылки: methods/links.md
   - Веб-хуки: webhooks.md
+  - Тематическое:
+      - Переход на v2: topics/v1vsv2.md
