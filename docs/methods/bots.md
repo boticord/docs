@@ -4,7 +4,7 @@
 _____
 
 
-???+ info "GET ```https://api.boticord.top/v1/bot/:shortCode|botID```"
+???+ info "GET ```/bot/:shortCode|botID```"
 
     === "Информация"
 
@@ -64,7 +64,7 @@ _____
             ```
 
 
-???+ info "GET ```https://api.boticord.top/v1/bot/:botID/comments```"
+???+ info "GET ```/bot/:botID/comments```"
 
     === "Информация"
 
@@ -106,7 +106,7 @@ _____
             ]
             ```
 
-???+ danger "POST ```https://api.boticord.top/v1/stats```"
+???+ danger "POST ```/stats```"
 
     === "Информация"
 

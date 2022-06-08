@@ -16,7 +16,7 @@ ____
 
 ```toml
 [dependencies]
-boticordrs = "0.1.0"
+boticordrs = "0.1.3"
 ```
 
 ## Примеры работы:
@@ -28,7 +28,7 @@ use boticordrs::types::{BotStats};
 
 #[tokio::main]
 async fn main() {
-    let client = BoticordClient::new("your token".to_string()).expect("failed client");
+    let client = BoticordClient::new("Bot YOUR_TOKEN".to_string(), 2).expect("failed client");
 
     let stats = BotStats {servers: 2514, shards: 3, users: 338250};
 

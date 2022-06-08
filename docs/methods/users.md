@@ -3,7 +3,7 @@
 На этой странице перечислены все API-методы, связанные с профилями пользователей сайта.
 _____
 
-???+ info "GET ```https://api.boticord.top/v1/profile/:userID```"
+???+ info "GET ```/profile/:userID```"
 
     === "Информация"
 
@@ -46,7 +46,7 @@ _____
             }
             ```
 
-???+ info "GET ```https://api.boticord.top/v1/profile/:userID/comments```"
+???+ info "GET ```/profile/:userID/comments```"
 
     === "Информация"
 
@@ -74,7 +74,7 @@ _____
             }
             ```
 
-???+ info "GET ```https://api.boticord.top/v1/bots/:userID```"
+???+ info "GET ```/bots/:userID```"
 
     === "Информация"
 
