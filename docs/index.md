@@ -69,3 +69,4 @@ BotiCord предоставляет разные версии своего API:
 | [BotiCord.js](/libraries/boticordjs/)    | JS (TS) | ✅       | ❌                | ❌        | ✅ |
 | [boticordrs](/libraries/boticordrs/)     | Rust    | ✅       | ✅                | ❌        | ✅ |
 | [BotiCordJava](/libraries/boticordjava/) | Java    | ✅       | ✅                | ❌        | ✅ |
+| [Boticord.NET](/libraries/boticordnet/) | .NET    | ✅       | ✅                | ❌        | ✅ |
