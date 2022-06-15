@@ -73,4 +73,4 @@ async Task BotLog(LogMessage message)
 Если Вам нужна какая-либо помощь, то мы рекомендуем подробнее поискать ответы
 на ваши вопросы в [репозитории проекта](https://github.com/boticord/Boticord.Net).
 
-Разработчик библиотеки: [`@Zont1k#5100`](https://boticord.top/profile/564380749873152004)
+Разработчик библиотеки: [`@Zont1k#5100`](https://boticord.top/profile/564380749873152004), [`@Misha133#9748`](https://boticord.top/profile/394209945513361408)
