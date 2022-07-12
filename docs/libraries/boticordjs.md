@@ -26,7 +26,7 @@ npm i boticord.js
 **Автоматическая публикация статистики (discord.js)**
 
 ```ts
-import { Client as BotiCord, DjsAdapter } from '../../src' // from 'boticord.js'
+import { Client as BotiCord, DjsAdapter } from 'boticord.js'
 const client: any = {} // Discord.js client
 
 const adapter = new DjsAdapter(client) // pass djs client to adapter
@@ -49,11 +49,11 @@ boticord.botStatsAutopost()
 **Простая публикация статистики**
 
 ```ts
-import { Client as BotiCord } from '../src' // from 'boticord.js'
+import { Client as BotiCord } from 'boticord.js'
 
 const boticord = new BotiCord({
-  token: 'YOUR_BOTICORD_API_TOKEN',
-  apiVersion: 1
+  token: 'Bot YOUR_BOTICORD_API_TOKEN',
+  apiVersion: 2
 })
 
 boticord.bots.postStats({ servers: 123, users: 12345, shards: 1 })
