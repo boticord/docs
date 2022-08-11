@@ -26,7 +26,7 @@ ____
 <dependency>
     <groupId>com.github.megoRU</groupId>
     <artifactId>boticordjava</artifactId>
-    <version>v3.1</version>
+    <version>v3.3</version>
 </dependency>
 ```
 
@@ -40,7 +40,6 @@ public static void main(String[] args) {
 
     BotiCordAPI api = new BotiCordAPI.Builder()
         .token("YOUR_TOKEN")
-        .botId("BOT_ID")
         .build();
         
     int servers = ...; // the server count
@@ -48,6 +47,19 @@ public static void main(String[] args) {
     int users = ...; // the amount of users
 
     api.setStats(servers, shards, users);
+}    
+```
+
+## How to use API v2
+```java
+public static void main(String[] args) {
+
+    BotiCordAPI api = new BotiCordAPI.Builder()
+        .token("YOUR_TOKEN")
+        .tokenEnum(TokenEnum.PROFILE) //This enable API v2
+        .build();
+    
+    api.createShortLink("boticordjava", "https://docs.boticord.top/libraries/boticordjava");
 }    
 ```
 
