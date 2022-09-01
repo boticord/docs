@@ -58,6 +58,7 @@ nav:
       - Rust: libraries/boticordrs.md
       - Java: libraries/boticordjava.md
       - .NET: libraries/boticordnet.md
+      - Dart: libraries/boticorddart.md
   - Методы:
       - Боты: methods/bots.md
       - Сервера: methods/servers.md
