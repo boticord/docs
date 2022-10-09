@@ -20,7 +20,7 @@ BotiCord предоставляет разные версии своего API:
 | Версия | Состояние | 
 |--------|-----------|
 | 2 | Доступна (В Разработке) |
-| 1 | Доступна |
+| 1 | Устарела |
 
 ## Авторизация
 Большинство API-методов (в том числе и в библиотеках) требуют указания API-токена авторизации.
@@ -50,8 +50,8 @@ BotiCord предоставляет разные версии своего API:
 | Путь         | Лимит   | Блокировка на |
 |--------------|---------|---------------|
 | `*`          | `5/5 с` | `5 с`         |
-| `/v1/server` | `1/2 с` | `2 с`         |
-| `/v1/stats`  | `1/2 с` | `2 с`         |
+| `/v{x}/server` | `1/2 с` | `2 с`         |
+| `/v{x}/stats`  | `1/2 с` | `2 с`         |
 
 !!! warning "Рекомендации от сервиса"
 
@@ -65,8 +65,9 @@ BotiCord предоставляет разные версии своего API:
 
 | Библиотека                               | Язык    | Основное | Сокращение ссылок | Веб-Хуки | API v2 | 
 |------------------------------------------|---------|----------|-------------------|----------|--------|
-| [boticordpy](/libraries/boticordpy/)     | Python  | ✅       | ✅                | ✅       | ✅
-| [BotiCord.js](/libraries/boticordjs/)    | JS (TS) | ✅       | ❌                | ❌        | ✅ |
-| [boticordrs](/libraries/boticordrs/)     | Rust    | ✅       | ✅                | ❌        | ✅ |
-| [BotiCordJava](/libraries/boticordjava/) | Java    | ✅       | ✅                | ❌        | ✅ |
-| [Boticord.NET](/libraries/boticordnet/) | .NET    | ✅       | ✅                | ❌        | ✅ |
+| [boticordpy](/libraries/boticordpy/)     | Python  | ✅       | ✅               | ✅       | ✅
+| [BotiCord.js](/libraries/boticordjs/)    | JS (TS) | ✅       | ❌               | ❌       | ✅ |
+| [boticordrs](/libraries/boticordrs/)     | Rust    | ✅       | ✅               | ❌       | ✅ |
+| [BotiCordJava](/libraries/boticordjava/) | Java    | ✅       | ✅               | ❌       | ✅ |
+| [Boticord.NET](/libraries/boticordnet/)  | .NET    | ✅       | ✅               | ❌       | ✅ |
+| [boticorddart](/libraries/boticorddart/) | Dart    | ✅       | ✅               | ❌       | ✅ |
