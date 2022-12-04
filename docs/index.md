@@ -68,6 +68,6 @@ BotiCord предоставляет разные версии своего API:
 | [boticordpy](/libraries/boticordpy/)     | Python  | ✅       | ✅               | ✅       | ✅
 | [BotiCord.js](/libraries/boticordjs/)    | JS (TS) | ✅       | ❌               | ❌       | ✅ |
 | [boticordrs](/libraries/boticordrs/)     | Rust    | ✅       | ✅               | ❌       | ✅ |
-| [BotiCordJava](/libraries/boticordjava/) | Java    | ✅       | ✅               | ❌       | ✅ |
+| [BotiCordJava](/libraries/boticordjava/) | Java    | ✅       | ✅               | ✅       | ✅ |
 | [Boticord.NET](/libraries/boticordnet/)  | .NET    | ✅       | ✅               | ❌       | ✅ |
 | [boticorddart](/libraries/boticorddart/) | Dart    | ✅       | ✅               | ❌       | ✅ |
